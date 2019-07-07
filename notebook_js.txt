@@ -1,0 +1,15 @@
+Javascrip course
+##Intro
+to add script in html:
+<script>
+	alert("this is an alert");
+</script>
+or:
+<script src="intro.js"></script>
+Recomendacion:
+agregarlo como src y al final de body para que lo cargue al final de a pagina 
+
+##2 variables
+var nombreVariable
+propmpt caja de texto con input similar a un JOption Input en Java
+Ej: <script>prompt("Ingresa tu nombre","Valor");</script>
