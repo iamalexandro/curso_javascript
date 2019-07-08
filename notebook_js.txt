@@ -98,6 +98,12 @@ function plus(n1, n2){
 }
 
 ##10 Forms and Functions
+para crear un formulario:
+<form action="">
+    <input type="text" id="numero1">
+    <input type="text" id="numero2">
+</form>
+
 
 
 
